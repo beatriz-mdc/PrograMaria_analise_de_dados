@@ -43,7 +43,7 @@ Toda a documentação relacionada a exploração e análise dos dados pode ser e
 
 # Reflexões
 
-a presença de profissionais em todas as regiões do país sugere uma certa democratização do acesso à área de dados, possivelmente impulsionada pelo trabalho remoto e pela digitalização. Ainda assim, a forte concentração no Sul e Sudeste, especialmente em São Paulo, indica que oportunidades mais qualificadas e melhor remuneradas continuam centralizadas. Isso reforça desigualdades regionais históricas e pode limitar o crescimento de talentos em outras regiões.
+A presença de profissionais em todas as regiões do país sugere uma certa democratização do acesso à área de dados, possivelmente impulsionada pelo trabalho remoto e pela digitalização. Ainda assim, a forte concentração no Sul e Sudeste, especialmente em São Paulo, indica que oportunidades mais qualificadas e melhor remuneradas continuam centralizadas. Isso reforça desigualdades regionais históricas e pode limitar o crescimento de talentos em outras regiões.
 
 A questão de gênero aparece como um dos pontos mais críticos. Quando isso é combinado com a diferença salarial e menor presença em cargos de maior senioridade, fica claro que não se trata apenas de entrada no mercado, mas também de progressão na carreira.
 
