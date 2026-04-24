@@ -34,12 +34,12 @@ Toda a documentação relacionada a exploração e análise dos dados pode ser e
 
 # Resultados
 
-- A distribuição de profissionais abrange todas as regiões do país, o que mostra diversidade nos dados, porém, as principais concentrações continuam sendo no Sul e Sudeste (principalmente em São Paulo);
-- Mulheres representam apenas 25% dos profissionais da área, mostrando que ainda há uma grande disparidade de gênero no setor;
-- Pessoas pretas e pardas tem a segunda maior representatividade dentro de etnia, ainda atrás da maioria de pessoas brancas do setor;
-- A maioria das pessoas possui grau de escolaridade em graduação/bacharelado;
-- A média salarial feminina é aproximadamente R$ 2.000 menor que a média masculina;
-- O nível de senioridade dos cargos é maior entre o público masculino.
+- Há presença de profissionais em todo o Brasil, mas com maior concentração no Sul e Sudeste, especialmente em São Paulo;
+- Mulheres representam cerca de 25% da área, evidenciando a desigualdade de gênero;
+- Pessoas pretas e pardas têm relevância na composição do setor, mas ainda abaixo da maioria branca;
+- A maior parte dos profissionais possui ensino superior completo;
+- A média salarial feminina é aproximadamente R$ 2.000 menor que a masculina;
+- Cargos com maior senioridade ainda são predominantemente ocupados por homens.
 
 # Reflexões
 
