@@ -10,7 +10,7 @@ O projeto aqui desenvolvido é parte do curso de análise de dados com python of
 
 # Sobre o Projeto
 
-O projeto utiliza como base os dados da pesquisa realizada pelo Data Hackers em 2022 com profissionais da área de dados. A partir dessa base, são analisados padrões, características dos perfis e a distribuição desses profissionais pelo território nacional, com o objetivo de gerar insights sobre diversidade no cenário da área de dados no Brasil.
+O projeto utiliza como base os dados da pesquisa realizada pelo [Data Hackers](https://docs.google.com/spreadsheets/d/1YwvXEOfD2XpHNGfyQUlVAYdXhqAlLgY9ipnBI_8oG74/edit?usp=sharing) em 2022 com profissionais da área de dados. A partir dessa base, são analisados padrões, características dos perfis e a distribuição desses profissionais pelo território nacional, com o objetivo de gerar insights sobre diversidade no cenário da área de dados no Brasil.
 
 # Objetivo
 
