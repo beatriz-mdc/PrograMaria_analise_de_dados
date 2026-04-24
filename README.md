@@ -31,6 +31,10 @@ As ferramentas e tecnologias utilizadas foram:
 
 Toda a documentação relacionada a exploração e análise dos dados pode ser encontrada nos links abaixo:
 
+- [Notebook](https://colab.research.google.com/drive/1OyyEcM_GwZ43FFuZ7B07Y-WhTvEwrxQP?usp=sharing)
+- [Dashboard](https://datastudio.google.com/reporting/43d2f3a1-c5d3-4766-9b90-582d881271eb)
+- Base SQL
+
 # Resultados
 
 - A distribuição de profissionais abrange todas as regiões do país, o que mostra diversidade nos dados, porém, as principais concentrações continuam sendo no Sul e Sudeste (principalmente em São Paulo);
