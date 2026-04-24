@@ -1,18 +1,16 @@
 # PrograMaria - Análise de Dados | Meus primeiros passos em Python
 
-A Programaria é uma iniciativa brasileira que trabalha para aumentar a participação de mulheres na tecnologia.
+A Programaria é uma iniciativa brasileira que trabalha para aumentar a participação de mulheres no mercado de tecnologia.
 
 Ela surgiu com o objetivo de reduzir a desigualdade de gênero no setor tech, criando oportunidades de aprendizado, troca e inclusão. Na prática, a Programaria oferece cursos, workshops, eventos e conteúdos educativos voltados principalmente para mulheres que querem começar ou crescer na área de tecnologia.
 
-Além do ensino técnico, a organização também atua muito na construção de comunidade, incentivando networking, apoio entre mulheres e discussões sobre diversidade no mercado de trabalho.
+Além do ensino técnico, a organização também atua na construção de comunidade, incentivando networking, apoio entre mulheres e discussões sobre diversidade no mercado de trabalho.
 
 O projeto aqui desenvolvido é parte do curso de análise de dados com python ofertado e desenvolvido pela PrograMaria.
 
-Toda a documentação realizada, bem como os materiais produzidos podem ser consultados nos arquivos anexados ao projeto.
-
 # Sobre o Projeto
 
-O projeto utiliza como base os dados a pesquisa realizada pelo Data Hackers em 2022 com profissionais da área de dados. A partir dessa base, são analisados padrões, características dos perfis e a distribuição desses profissionais pelo território nacional, com o objetivo de gerar insights sobre diversidade no cenário da área de dados no Brasil.
+O projeto utiliza como base os dados da pesquisa realizada pelo Data Hackers em 2022 com profissionais da área de dados. A partir dessa base, são analisados padrões, características dos perfis e a distribuição desses profissionais pelo território nacional, com o objetivo de gerar insights sobre diversidade no cenário da área de dados no Brasil.
 
 # Objetivo
 
@@ -45,4 +43,12 @@ Toda a documentação relacionada a exploração e análise dos dados pode ser e
 
 # Reflexões
 
-Apesar da presença de profissionais de dados em todas as regiões, a concentração no Sul e Sudeste revela desigualdade no acesso às melhores oportunidades. A baixa participação feminina, somada à diferença salarial e menor senioridade, indica barreiras tanto de entrada quanto de crescimento na carreira. Pessoas pretas e pardas têm participação relevante, mas ainda inferior à de pessoas brancas, sugerindo sub-representação proporcional. Além disso, a exigência de ensino superior pode limitar o acesso de grupos mais vulneráveis. Em conjunto, os dados mostram que a área de dados avança em diversidade, mas ainda reproduz desigualdades estruturais do mercado.
+a presença de profissionais em todas as regiões do país sugere uma certa democratização do acesso à área de dados, possivelmente impulsionada pelo trabalho remoto e pela digitalização. Ainda assim, a forte concentração no Sul e Sudeste, especialmente em São Paulo, indica que oportunidades mais qualificadas e melhor remuneradas continuam centralizadas. Isso reforça desigualdades regionais históricas e pode limitar o crescimento de talentos em outras regiões.
+
+A questão de gênero aparece como um dos pontos mais críticos. Quando isso é combinado com a diferença salarial e menor presença em cargos de maior senioridade, fica claro que não se trata apenas de entrada no mercado, mas também de progressão na carreira.
+
+Em relação à raça, o dado de que pessoas pretas e pardas têm a segunda maior representatividade pode parecer positivo à primeira vista, mas precisa ser analisado com cautela. Se ainda estão atrás da população branca em um país majoritariamente negro e pardo, isso sugere sub-representação proporcional.
+
+Além disso, a exigência de ensino superior pode limitar o acesso de grupos mais vulneráveis. 
+
+Em conjunto, os dados mostram que a área de dados avança mas ainda reproduz desigualdades estruturais do mercado.
